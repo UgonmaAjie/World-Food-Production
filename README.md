@@ -40,4 +40,5 @@ Drillthrough                             |        Tooltip
 ## Analysis
 Total Quantity of Food Produced by the World is over 1 Trillion Tonnes; 
 The Top 5 years of Food Produced was in 2017 - 2021...This shows food production has been growing
-The Top 5 Countries with the highest in food production is Asia with Rice, Wheat and Maize as the top food categories produced.
+The Top 5 Countries with the highest in food production is Asia with Rice, Maize and Wheat as the top food categories produced.
+![](world_asia.jpeg)
